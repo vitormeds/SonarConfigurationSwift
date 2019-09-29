@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='SonarConfigurationSwiftUITests.xctest' tests='4' failures='0'>
+  <testsuite name='SonarConfigurationSwiftTests.SonarConfigurationSwiftTests' tests='2' failures='0'>
+    <testcase classname='SonarConfigurationSwiftTests.SonarConfigurationSwiftTests' name='testExample' time='0.001'/>
+    <testcase classname='SonarConfigurationSwiftTests.SonarConfigurationSwiftTests' name='testPerformanceExample' time='0.358'/>
+  </testsuite>
+  <testsuite name='SonarConfigurationSwiftUITests.SonarConfigurationSwiftUITests' tests='2' failures='0'>
+    <testcase classname='SonarConfigurationSwiftUITests.SonarConfigurationSwiftUITests' name='testExample' time='4.501'/>
+    <testcase classname='SonarConfigurationSwiftUITests.SonarConfigurationSwiftUITests' name='testLaunchPerformance' time='23.123'/>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,6 @@
+framework module Pods_SonarConfigurationSwift {
+  umbrella header "Pods-SonarConfigurationSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
