@@ -1,0 +1,7 @@
+organization=vitormeds
+projectKey=SonarConfigurationSwift
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.884
+dashboardUrl=https://sonarcloud.io/dashboard?id=SonarConfigurationSwift
+ceTaskId=AW19g-QbXu_0lF5flANq
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW19g-QbXu_0lF5flANq
